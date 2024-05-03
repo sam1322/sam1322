@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sam1322
+ 👋 Hi, I’m @sam1322
 
-- 
-👨‍💻 Full Stack Developer
-Experienced in crafting robust applications with a keen focus on both frontend and backend technologies.
+ - 🌱 I’m currently grinding Leetcode
+<!-- - 💞️ I’m looking to collaborate on ... -->
+- 📫 You can reach me on s4am634@gmail.com
+ 
+I am a 👨‍💻 Full Stack Developer, experienced in crafting robust applications with a keen focus on both frontend and backend technologies.
 
 🔧 Frontend Expertise: Proficient in React.js and Next.js, adept at building dynamic and responsive user interfaces that elevate user experiences.
 
@@ -15,9 +17,7 @@ Experienced in crafting robust applications with a keen focus on both frontend a
 📚 Continuous Learner: Committed to ongoing learning and professional growth, always exploring new tools and techniques to stay ahead in the ever-evolving tech landscape.
 
 
-- 🌱 I’m currently grinding Leetcode
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 You can reach me on s4am634@gmail.com
+
 
 <!---
 sam1322/sam1322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
