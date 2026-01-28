@@ -8,7 +8,7 @@ I am a 👨‍💻 Full Stack Developer, experienced in crafting robust applicat
 
 🔧 Frontend Expertise: Proficient in React.js and Next.js, adept at building dynamic and responsive user interfaces that elevate user experiences.
 
-💻 Backend Mastery: Skilled in Spring Boot, Java, and Golang, with a strong foundation in server-side development, API design, and database management.
+💻 Backend Mastery: Skilled in Nestjs or Nodejs, Spring Boot, and Golang, with a strong foundation in server-side development, API design, and database management.
 
 🚀 Passion for Innovation: Dedicated to staying updated with the latest trends and technologies, constantly seeking opportunities to enhance and optimize software solutions.
 
